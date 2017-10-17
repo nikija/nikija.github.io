@@ -1,3 +1,3 @@
 # ¯\_(ツ)_/¯
 
-<script>alert("I am an alert box!");</script>
+<script src="../test1.js"></script>
