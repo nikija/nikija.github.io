@@ -1,3 +1,3 @@
 # ¯\_(ツ)_/¯
 
-<script src="test1.js"></script>
+<a href="test1.html">Wombats</a>
