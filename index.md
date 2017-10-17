@@ -1,3 +1,3 @@
 # ¯\_(ツ)_/¯
 
-<script src="https://gist.github.com/jonschlinkert/5854601.js"></script>
+<script>alert("I am an alert box!");</script>
