@@ -9,7 +9,7 @@
 <body>
   <h1>My Resume</h1>
   <p>
-    <a href="resume.pdf">View or download my resume</a>
+    <a href="Nik_Rollinson_Universal_Software_Engineer_CV(1).pdf">View or download my resume</a>
   </p>
 </body>
 </html>
